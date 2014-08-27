@@ -1,1 +1,4 @@
-.. include:: ../AUTHORS.rst
+作者
+-------
+
+* chxzh123
