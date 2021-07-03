@@ -12,8 +12,8 @@ Contents:
    :maxdepth: 2
    :glob:
 
-   *
-
+..   *
+   authors
 
 
 Indices and tables
