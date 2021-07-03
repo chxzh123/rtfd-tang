@@ -12,7 +12,9 @@ Contents:
    :maxdepth: 2
    :glob:
 
-   authors.rst
+   docs\readme.rst
+   docs\history.rst
+   docs\authors.rst
 
 
 Indices and tables
