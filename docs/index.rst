@@ -12,8 +12,7 @@ Contents:
    :maxdepth: 2
    :glob:
 
-..   *
-   authors
+   authors.rst
 
 
 Indices and tables
